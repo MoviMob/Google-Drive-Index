@@ -1,5 +1,5 @@
 /**
-* A Script Redesigned by Parveen Bhadoo from GOIndex at https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index
+* A Script Redesigned by Parveen Bhadoo from GOIndex at https://github.com/MoviMob/Google-Drive-Index
 */
 const authConfig = {
 	"siteName": "Bhadoo Drive Index", // Website name
@@ -61,11 +61,11 @@ const uiConfig = {
 	"logo_image": false, // true if you're using image link in next option.
 	"logo_height": "", // only if logo_image is true
 	"logo_width": "100px", // only if logo_image is true
-	"logo_link_name": "Bhadoo Drive Index", // if logo is true then link otherwise just text for name
-	"contact_link": "https://t.telegram.ind.in/BhadooCloud", // Link to Contact Button on Menu
+	"logo_link_name": "Bhadoo ", // if logo is true then link otherwise just text for name
+	"contact_link": "", // Link to Contact Button on Menu
 	"copyright_year": "2050", // year of copyright, can be anything like 2015 - 2020 or just 2020
-	"company_name": "Bhadoo Cloud", // Name next to copyright
-	"company_link": "https://t.telegram.ind.in/BhadooCloud", // link of copyright name
+	"company_name": "Bhadoo ", // Name next to copyright
+	"company_link": "BhadooCloud", // link of copyright name
 	"credit": true, // Set this to true to give us credit
 	"display_size": true, // Set this to false to hide display file size
 	"display_time": false, // Set this to false to hide display modified time for folder and files
